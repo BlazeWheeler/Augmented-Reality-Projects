@@ -93,7 +93,7 @@ Getting started is fairly simple...
 
 <!-- Demo -->
 ## Application Demo
-![App Preview](Images/AppDemo.gif)
+![App Preview](Images/AppPreview.gif)
 
  
 
