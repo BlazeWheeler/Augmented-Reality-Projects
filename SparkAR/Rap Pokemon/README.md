@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BlazeWheeler/Swift_Projects/">
-    <img src="Images/RapPokemonIcon.png" alt="Logo" width="80" height="80">
+    <img src="Images/RapPokemonIcon.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Rap Pokémon</h3>
